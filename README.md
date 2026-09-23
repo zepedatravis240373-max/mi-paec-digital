@@ -1,2 +1,4 @@
 # mi-paec-digital
-Mi PAEC Digital
+mi nombre: Travis Kaleb Zepeda Gonzalez 
+me gusta: hacer deporte, ver peliculas, comer mucho
+mi meta: programar mejor 
